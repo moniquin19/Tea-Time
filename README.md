@@ -61,6 +61,7 @@ En primera instancia, se realizaron pequeñas entrevistas aproximadamente a 4 pe
 ![Prototipo Administrador](https://image.ibb.co/kY77nx/Captura_de_pantalla_2018_03_23_a_la_s_1_08_14_a_m.png)
 
 *Usuario*
+
 ![Prototipo Usuario](https://image.ibb.co/huHU0H/Captura_de_pantalla_2018_03_23_a_la_s_1_08_20_a_m.png)
 
 
