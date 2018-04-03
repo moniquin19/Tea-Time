@@ -3,7 +3,8 @@ El té es una infusión obtenida de las hojas y brotes de la planta del té (Cam
 La popularidad de esta bebida es solamente sobrepasada por el agua. Su sabor es fresco, ligeramente amargo y astringente; es por ello que esta bebida es del agrado de muchas personas.
 Adicionalmente se argumenta que el consumo de té es beneficioso para la salud ya que contiene una gran cantidad de propiedades como los antioxidantes, flavanoles, flavonoides, catequinos y polifenoles que ayudan a nuestro organismo.
 
-# El Reto
+# Desarrollado para Laboratoria
+### El Reto
 Para realizar este proyecto se nos dieron las siguientes directrices:
 ![Reto 5 Integrarse con un BackEnd](https://image.ibb.co/hGCq7x/Captura_de_pantalla_2018_03_22_a_la_s_11_11_30_p_m.png)
 
