@@ -1,7 +1,4 @@
 # Tea Time
-
-# Introducción
-
 El té es una infusión obtenida de las hojas y brotes de la planta del té (Camellia Sinensis).
 La popularidad de esta bebida es solamente sobrepasada por el agua. Su sabor es fresco, ligeramente amargo y astringente; es por ello que esta bebida es del agrado de muchas personas.
 Adicionalmente se argumenta que el consumo de té es beneficioso para la salud ya que contiene una gran cantidad de propiedades como los antioxidantes, flavanoles, flavonoides, catequinos y polifenoles que ayudan a nuestro organismo.
